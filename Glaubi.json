@@ -308,6 +308,14 @@
                 ],
                 "uploadDate": "2025-09-13T00:00:00.000Z",
                 "fileSize": "21 GB"
+              },
+              {  
+                "title": "ARK SURVIVAL: ASCEND (Build 28072025 + Coop)",
+                "uris": [
+                  "magnet:?xt=urn:btih:KUQFITGK54VEYTRSLSWUJTEODCDIASBX&dn=ARK%20Survival%20Ascended&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce"
+                ],
+                "uploadDate": "2025-09-14T00:00:00.000Z",
+                "fileSize": "21 GB"
               }
         ]
 }
