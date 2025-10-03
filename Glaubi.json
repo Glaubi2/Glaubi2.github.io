@@ -357,6 +357,14 @@
                 ],
                 "uploadDate": "2025-09-29T00:00:00.000Z",
                 "fileSize": "1.30 GB"
+              },
+              {  
+                "title": "No mans sky (v6.5.0.0 + Online)",
+                "uris": [
+                  "magnet:?xt=urn:btih:BZLDH2PVSLLIYV6L3GLEZME2IVADRX7T&dn=No%20Mans%20Sky&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce"
+                ],
+                "uploadDate": "2025-10-03T00:00:00.000Z",
+                "fileSize": "26 GB"
               }
         ]
 }
