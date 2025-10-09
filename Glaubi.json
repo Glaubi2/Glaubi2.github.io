@@ -365,6 +365,14 @@
                 ],
                 "uploadDate": "2025-10-03T00:00:00.000Z",
                 "fileSize": "26 GB"
+              },
+              {
+                "title": "Little Nightmares III",
+                "uris": [
+                  "magnet:?xt=urn:btih:36GUAYZTH6AON7SNISR4NVIJQC7565TY&dn=Little%20Nightmares%20III%20(2025)&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce"
+                ],
+                "uploadDate": "2025-10-09T00:00:00.000Z",
+                "fileSize": "13 GB"
               }
         ]
 }
