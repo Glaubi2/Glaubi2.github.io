@@ -381,7 +381,16 @@
                 ],
                 "uploadDate": "2025-10-21T00:00:00.000Z",
                 "fileSize": "56 GB"
+              },
+              {
+                "title": "Dying Light: The Beast (1.2.5c + Online)",
+                "uris": [
+                  "magnet:?xt=urn:btih:XHP37XGB4WFB2OUVEIOKDQIVJUCH7Y5X&dn=Dying%20Light%20The%20Beast&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce"
+                ],
+                "uploadDate": "2025-10-24T00:00:00.000Z",
+                "fileSize": "60.7 GB"
               }
+              
         ]
 }
 
